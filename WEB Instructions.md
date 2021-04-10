@@ -86,7 +86,7 @@
 3. Add Excerpt
    ![image-3](./WEB_Instructions.assets/3.png)
     _please add_ ```&nbsp;``` _if you want leave it blank, this text will appear below the text of musical page title in_ **music** _page_
-   ![image-4](WEB Instructions.assets/4.png)
+   ![image-4](WEB_Instructions.assets/4.png)
    
 4. Add Content
    ![image-6](./WEB_Instructions.assets/6.png)
@@ -151,20 +151,20 @@
    
 5. Add Featured Image (Musical Cover) 
    1. Click **Set Featured image**
-   ![image-7](WEB Instructions.assets/7.png)
+   ![image-7](WEB_Instructions.assets/7.png)
    
    2. Select the image
    3. Click **Set featured image** button
-   ![image-8](WEB Instructions.assets/8.png)
+   ![image-8](WEB_Instructions.assets/8.png)
    
 6. Add tag _(This will be used to retrieve purchase item data, and should be only add one tag)_
-   ![image-9](WEB Instructions.assets/9.png)
+   ![image-9](WEB_Instructions.assets/9.png)
    enter tag text _example : gtw_
    click **add** button
    
 7. Set category to product
    Check the **Product** category
-   ![image-10](WEB Instructions.assets/10.png)
+   ![image-10](WEB_Instructions.assets/10.png)
    
 8. Publish the page
    Click **Publish** button
@@ -183,7 +183,7 @@
    ![image-20200407073428214](./WEB_Instructions.assets/image-20200407073428214.png)
    
 4. Add tag _(This should be the same with the musical page tag)_
-   ![image-9](WEB Instructions.assets/9.png)
+    ![image-9](./WEB_Instructions.assets/9.png)
    enter tag text _example : gtw_
    click **add** button
 5. Add price
