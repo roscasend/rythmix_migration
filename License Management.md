@@ -17,7 +17,7 @@
 ## Export multiple license code
 
 1. Check every license which you want to export
-   ![image-20200907175809085](License Management.assets/image-20200907175809085.png)
+   ![image-20200907175809085](./License_Management.assets/image-20200907175809085.png)
 
 2. Click export, it will downloading a csv file
 
@@ -28,10 +28,10 @@
 2. Go to dashboard
 
 3. Go to License Keys menu inside License Manager menu
-   ![image-20200907180021564](License Management.assets/image-20200907180021564.png)
+   ![image-20200907180021564](./License_Management.assets/image-20200907180021564.png)
 
 4. Click Import
-   ![image-20200907180034926](License Management.assets/image-20200907180034926.png)
+   ![image-20200907180034926](./License_Management.assets/image-20200907180034926.png)
 
 5. Select File upload
 
@@ -40,7 +40,7 @@
 7. Input some data
 
 8. Select the product will be linked
-   ![image-20200907180226509](License Management.assets/image-20200907180226509.png)
+   ![image-20200907180226509](./License_Management.assets/image-20200907180226509.png)
 
 9. Click Import
 
@@ -48,11 +48,11 @@
 
 1. Create new product or select a product
 2. Go to All Products menu inside Products menu
-   ![image-20200907180511120](License Management.assets/image-20200907180511120.png)
+   ![image-20200907180511120](./License_Management.assets/image-20200907180511120.png)
 3. Select the product
 4. Go to Product data section
 5. Click License manager
-   ![image-20200907180615796](License Management.assets/image-20200907180615796.png)
+   ![image-20200907180615796](./License_Management.assets/image-20200907180615796.png)
 6. Check Virtual and downloadable
 7. Check Sell license keys
 8. Check Sell license keys from the available stock
@@ -60,7 +60,7 @@
 
 ## Purchased License
 1. After do a purchase you will get the license inside the success page
-![image-20200907181141910](License Management.assets/image-20200907181141910.png)
+![image-20200907181141910](./License_Management.assets/image-20200907181141910.png)
 
 2. And also in your email
-   ![image-20200907181254679](License Management.assets/image-20200907181254679.png)
+   ![image-20200907181254679](./License_Management.assets/image-20200907181254679.png)
