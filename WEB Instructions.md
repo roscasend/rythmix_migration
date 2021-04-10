@@ -168,34 +168,34 @@
    
 8. Publish the page
    Click **Publish** button
-   ![image-20200407072733102](WEB Instructions.assets/image-20200407072733102.png)
+   ![image-20200407072733102](./WEB_Instructions.assets/image-20200407072733102.png)
 ### Make New Purchase Item For Musical Page
 
 1. Click **Add New** in **Products** Menu
-   ![image-20200407073127525](WEB Instructions.assets/image-20200407073127525.png)
+   ![image-20200407073127525](./WEB_Instructions.assets/image-20200407073127525.png)
    
 2. Add product name
-   ![image-20200407073240622](WEB Instructions.assets/image-20200407073240622.png)
+   ![image-20200407073240622](./WEB_Instructions.assets/image-20200407073240622.png)
    
 3. Add Product short description
-   ![image-20200407081604554](WEB Instructions.assets/image-20200407081604554.png)
+   ![image-20200407081604554](./WEB_Instructions.assets/image-20200407081604554.png)
     _please add_ ```&nbsp;``` _if you want leave it blank, this text will appear below purchase item title in musical page_
-   ![image-20200407073428214](WEB Instructions.assets/image-20200407073428214.png)
+   ![image-20200407073428214](./WEB_Instructions.assets/image-20200407073428214.png)
    
 4. Add tag _(This should be the same with the musical page tag)_
    ![image-9](WEB Instructions.assets/9.png)
    enter tag text _example : gtw_
    click **add** button
 5. Add price
-   ![image-20200407082530292](WEB Instructions.assets/image-20200407082530292.png)
+   ![image-20200407082530292](./WEB_Instructions.assets/image-20200407082530292.png)
 6. Set as virtual and downloadable _(if this is not a Physical product)_
-   ![image-20200407082559032](WEB Instructions.assets/image-20200407082559032.png)
+   ![image-20200407082559032](./WEB_Instructions.assets/image-20200407082559032.png)
    _Check **virtual** if the product isn't posted, check **downloadable** if the product can be downloaded by the buyer, you can check both_
 7. Add file to download _(if this is a downloadable product)_
-   ![image-20200407082936539](WEB Instructions.assets/image-20200407082936539.png)
+   ![image-20200407082936539](./WEB_Instructions.assets/image-20200407082936539.png)
    
 8. Publish the product
-   ![image-20200407083103786](WEB Instructions.assets/image-20200407083103786.png)
+   ![image-20200407083103786](./WEB_Instructions.assets/image-20200407083103786.png)
    
 9. You can repeat all this step to create other purchase item for current musical page
 ### Upload a Re-Verse Content
@@ -203,43 +203,43 @@
 1. Login to hosting account
 
 2. Click manage on Web hosting section
-   ![image-20200407083438399](WEB Instructions.assets/image-20200407083438399.png)
+   ![image-20200407083438399](./WEB_Instructions.assets/image-20200407083438399.png)
    
 3. Click **cPanel Admin**
-   ![image-20200407083550574](WEB Instructions.assets/image-20200407083550574.png)
+   ![image-20200407083550574](./WEB_Instructions.assets/image-20200407083550574.png)
    
 4. Click **File Manager** on **File** section
-   ![image-20200407083714478](WEB Instructions.assets/image-20200407083714478.png)
+   ![image-20200407083714478](./WEB_Instructions.assets/image-20200407083714478.png)
    
 5. Open **public_html** > **reverse** > **contents** folder
-   ![image-20200407084121073](WEB Instructions.assets/image-20200407084121073.png)
+   ![image-20200407084121073](./WEB_Instructions.assets/image-20200407084121073.png)
    
 6. Click **Upload** button on the top panel
 
 7. Click **Select File** button
-   ![image-20200407084736182](WEB Instructions.assets/image-20200407084736182.png)
+   ![image-20200407084736182](./WEB_Instructions.assets/image-20200407084736182.png)
    
 8. Select and upload a zip file contains a folder named with no space and any special character exclude dash " **-** " and underscore  " **_** " , below is the file and folder structure
-   ![image-20200407084828345](WEB Instructions.assets/image-20200407084828345.png)
-   ![image-20200407084951000](WEB Instructions.assets/image-20200407084951000.png)
+   ![image-20200407084828345](./WEB_Instructions.assets/image-20200407084828345.png)
+   ![image-20200407084951000](./WEB_Instructions.assets/image-20200407084951000.png)
    
 9. Click **go back**
-   ![image-20200407085244693](WEB Instructions.assets/image-20200407085244693.png)
+   ![image-20200407085244693](./WEB_Instructions.assets/image-20200407085244693.png)
 
 10. Right click the zip file and click **Extract** then click **Extract File(s)**
-    ![image-20200407085614005](WEB Instructions.assets/image-20200407085614005.png)
+    ![image-20200407085614005](./WEB_Instructions.assets/image-20200407085614005.png)
 
 
 ### Make New Page For Displaying Re-Verse
 
 1. Click **Add New** in **Pages** Menu
-   ![image-20200407085919141](WEB Instructions.assets/image-20200407085919141.png)
+   ![image-20200407085919141](./WEB_Instructions.assets/image-20200407085919141.png)
    
 2. Add a title 
-   ![image-20200407090131012](WEB Instructions.assets/image-20200407090131012.png)
+   ![image-20200407090131012](./WEB_Instructions.assets/image-20200407090131012.png)
    
 3. Add content
-   ![image-20200407090325451](WEB Instructions.assets/image-20200407090325451.png)
+   ![image-20200407090325451](./WEB_Instructions.assets/image-20200407090325451.png)
    _You have to change blocked text with folder name that you have uploaded to the **contents** folder_
    
    Below is the code :
@@ -249,13 +249,13 @@
    ```
    
 4. Select asosiated product (the products which have to purchased to give access to open this page)
-   ![image-20200407090843016](WEB Instructions.assets/image-20200407090843016.png)
+   ![image-20200407090843016](./WEB_Instructions.assets/image-20200407090843016.png)
 
 5. Change the template to **Reverse Page**
-   ![image-20200407090941205](WEB Instructions.assets/image-20200407090941205.png)
+   ![image-20200407090941205](./WEB_Instructions.assets/image-20200407090941205.png)
 
 6. Publish the page 
-   ![image-20200407085948221](WEB Instructions.assets/image-20200407085948221.png)
+   ![image-20200407085948221](./WEB_Instructions.assets/image-20200407085948221.png)
 
 
 
