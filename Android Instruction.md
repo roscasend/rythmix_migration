@@ -5,7 +5,7 @@
 ### if ionic app not configured
 
 1. download the source from : https://github.com/mbash12/reverse/
-   ![image-20200801141904494](Android Instruction.assets/image-20200801141904494.png)
+   ![image-20200801141904494](./Android_Instruction.assets/image-20200801141904494.png)
 
 2. Extract downloaded ZIP file
 
@@ -28,10 +28,10 @@
 ### Prepare app
 
 1. Open **config.xml**
-   ![image-20200801143728719](Android Instruction.assets/image-20200801143728719.png)
+   ![image-20200801143728719](./Android_Instruction.assets/image-20200801143728719.png)
 
 2. Change **id** on widget element match with **app code** in **licences manager**, 
-   ![image-20200801143437358](Android Instruction.assets/image-20200801143437358.png)
+   ![image-20200801143437358](./Android_Instruction.assets/image-20200801143437358.png)
 
 3. Change the **version** to higher than uploaded app version
 
@@ -43,7 +43,7 @@
 
 7. change **appName** to match with **appCode**
 
-   ![image-20200801144237501](Android Instruction.assets/image-20200801144237501.png)
+   ![image-20200801144237501](./Android_Instruction.assets/image-20200801144237501.png)
 
 8. Run this commands :
 
@@ -55,7 +55,7 @@
 ### Prepare content
 
 1. Copy your **contents** folder to folder **assets** inside the **src** folder in the application folder
-   ![image-20200801143035983](Android Instruction.assets/image-20200801143035983.png)
+   ![image-20200801143035983](./Android_Instruction.assets/image-20200801143035983.png)
 2. Adjust font size, list height etc inside settings.json
 
 ## Build
@@ -67,4 +67,4 @@
    ```
 
 2. Location of the apk which you can upload to playsotre
-   ![image-20200804213120560](Android Instruction.assets/image-20200804213120560.png)
+   ![image-20200804213120560](./Android_Instruction.assets/image-20200804213120560.png)
