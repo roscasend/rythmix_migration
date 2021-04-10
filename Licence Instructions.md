@@ -18,10 +18,10 @@
 
 3. Will appear add new app form
 
-   ![image-20200713173523485](./_Licence Instructions.assets/image-20200713173523485.png)
+   ![image-20200713173523485](./_Licence_Instructions.assets/image-20200713173523485.png)
 
 4. Fill App name with readable name, and fill app code with the same text you have set to appName inside index.js
-   ![image-20200713173721941](./_Licence Instructions.assets/image-20200713173721941.png)
+   ![image-20200713173721941](./_Licence_Instructions.assets/image-20200713173721941.png)
 
    ![image-20200713173701668](./Licence_Instructions.assets/image-20200713173701668.png)
 
