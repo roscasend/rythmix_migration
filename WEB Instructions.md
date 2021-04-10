@@ -238,7 +238,9 @@
    ![image-20200407090131012](./WEB_Instructions.assets/image-20200407090131012.png)
    
 3. Add content
+   
    ![image-20200407090325451](./WEB_Instructions.assets/image-20200407090325451.png)
+   
    _You have to change blocked text with folder name that you have uploaded to the **contents** folder_
    
    Below is the code :
