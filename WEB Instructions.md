@@ -78,19 +78,19 @@
 ### Make New Musical Page
 
 1. Click **Add New** in **Posts** Menu
-   ![image-1](./WEB_Instructions.assets/1.png)
+     ![image-1](./WEB_Instructions.assets/1.png)
    
 2. Add a title 
-   ![image-2](./WEB_Instructions.assets/2.png)
+    ![image-2](./WEB_Instructions.assets/2.png)
    
 3. Add Excerpt
-   ![image-3](./WEB_Instructions.assets/3.png)
+    ![image-3](./WEB_Instructions.assets/3.png)
     _please add_ ```&nbsp;``` _if you want leave it blank, this text will appear below the text of musical page title in_ **music** _page_
-   ![image-4](WEB_Instructions.assets/4.png)
+    ![image-4](WEB_Instructions.assets/4.png)
    
 4. Add Content
-   ![image-6](./WEB_Instructions.assets/6.png)
-   ![image-5](./WEB_Instructions.assets/5.png)
+    ![image-6](./WEB_Instructions.assets/6.png)
+    ![image-5](./WEB_Instructions.assets/5.png)
    _Click __Text__ tab in the right hand top on the content editor to add code_
    
    1. Add Text Content
@@ -151,36 +151,36 @@
    
 5. Add Featured Image (Musical Cover) 
    1. Click **Set Featured image**
-   ![image-7](WEB_Instructions.assets/7.png)
+    ![image-7](WEB_Instructions.assets/7.png)
    
    2. Select the image
    3. Click **Set featured image** button
-   ![image-8](WEB_Instructions.assets/8.png)
+    ![image-8](WEB_Instructions.assets/8.png)
    
 6. Add tag _(This will be used to retrieve purchase item data, and should be only add one tag)_
-   ![image-9](WEB_Instructions.assets/9.png)
+    ![image-9](WEB_Instructions.assets/9.png)
    enter tag text _example : gtw_
    click **add** button
    
 7. Set category to product
    Check the **Product** category
-   ![image-10](WEB_Instructions.assets/10.png)
+    ![image-10](WEB_Instructions.assets/10.png)
    
 8. Publish the page
    Click **Publish** button
-   ![image-20200407072733102](./WEB_Instructions.assets/image-20200407072733102.png)
+    ![image-20200407072733102](./WEB_Instructions.assets/image-20200407072733102.png)
 ### Make New Purchase Item For Musical Page
 
 1. Click **Add New** in **Products** Menu
-   ![image-20200407073127525](./WEB_Instructions.assets/image-20200407073127525.png)
+    ![image-20200407073127525](./WEB_Instructions.assets/image-20200407073127525.png)
    
 2. Add product name
-   ![image-20200407073240622](./WEB_Instructions.assets/image-20200407073240622.png)
+    ![image-20200407073240622](./WEB_Instructions.assets/image-20200407073240622.png)
    
 3. Add Product short description
-   ![image-20200407081604554](./WEB_Instructions.assets/image-20200407081604554.png)
+    ![image-20200407081604554](./WEB_Instructions.assets/image-20200407081604554.png)
     _please add_ ```&nbsp;``` _if you want leave it blank, this text will appear below purchase item title in musical page_
-   ![image-20200407073428214](./WEB_Instructions.assets/image-20200407073428214.png)
+    ![image-20200407073428214](./WEB_Instructions.assets/image-20200407073428214.png)
    
 4. Add tag _(This should be the same with the musical page tag)_
     ![image-9](./WEB_Instructions.assets/9.png)
