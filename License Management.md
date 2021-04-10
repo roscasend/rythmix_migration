@@ -5,7 +5,7 @@
 1. Open https://rhythmstix.co.uk/licences/
 
 2. input all required field :
-   [image-20200907175626006](License Management.assets/image-20200907175626006.png)
+   [image-20200907175626006](./License_Management.assets/image-20200907175626006.png)
 1. Description (make it easier to know which license are in one group / one batch)
    2. Type : full / trial
    3. Duration : how long the license will valid since it's applied
