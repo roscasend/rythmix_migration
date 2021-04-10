@@ -18,8 +18,7 @@
       "logo":"settings/logo.png",
       "graphic":"settings/graphic.png",
       "songList":"songlist/songlist.json"
-   }
-   ```
+   }```
    
 5. Create songlist.json inside the songlist folder which contain :
    ```json
@@ -38,7 +37,7 @@
    ```
    
 6. Create song.json inside ~~song-folder-name~~ inside songlist folder which contain :
-   ```json
+  ``` json
    {
     "data" : {
         "title":"Shooting Stars",
@@ -63,8 +62,9 @@
             }
         }  
     }
-}
-   ```
+}  
+```
+
    For file from dropbox the url should changed to :
    
    https://www.dropbox.com/s/eu2tx17e97u3yid/shooting_stars_backsong.mp3?**dl=0**
