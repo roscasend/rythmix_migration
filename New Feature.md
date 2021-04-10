@@ -5,10 +5,10 @@
 2. Click the file
 
 3. Click Share
-   ![image-20200907193459398](New Feature.assets/image-20200907193459398.png)
+   ![image-20200907193459398](./New_Feature.assets/image-20200907193459398.png)
 
 4. Click copy link
-   ![image-20200907193515978](New Feature.assets/image-20200907193515978.png)
+   ![image-20200907193515978](./New_Feature.assets/image-20200907193515978.png)
 
 5. Change the link 
 
@@ -17,7 +17,7 @@
    to this https://www.dropbox.com/s/k57p9unrsp22jqq/Logo.mp4?**dl=1**
 
 6. Add as content of the slide inside slides.json
-   ![image-20200907193438047](New Feature.assets/image-20200907193438047.png)
+   ![image-20200907193438047](./New_Feature.assets/image-20200907193438047.png)
 
 
 ## Auto change slide and still slide
@@ -28,7 +28,7 @@
 ## iOS and android background color
 
 on previous setting it use background-color to make the slide background color match with image background, now it use backgroundColor instead inside slides.json
-![image-20200907194920901](New Feature.assets/image-20200907194920901.png)
+![image-20200907194920901](./New_Feature.assets/image-20200907194920901.png)
 
 ## Slide Transitions
 
@@ -55,7 +55,7 @@ you can open this as a reference : https://www.w3schools.com/w3css/w3css_animate
 3. Place the background video inside settings folder
 
 4. Change video to the video file name
-   ![image-20200907195513571](New Feature.assets/image-20200907195513571.png)
+   ![image-20200907195513571](./New_Feature.assets/image-20200907195513571.png)
 
 as sample : the video background name is video.mp4, so the set "video" : "settings/video.mp4"
 
@@ -64,7 +64,7 @@ as sample : the video background name is video.mp4, so the set "video" : "settin
 1. Place the video inside the slide folder, for example 1.drumatic
 
 2. Change "video" : "" inside slides.json to "video" : "video.mp4" if the video name is video.mp4
-   ![image-20200907200436768](New Feature.assets/image-20200907200436768.png)
+   ![image-20200907200436768](./New_Feature.assets/image-20200907200436768.png)
 
 ## Fullscreen image slide illusion
 
