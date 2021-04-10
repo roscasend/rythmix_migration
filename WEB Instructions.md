@@ -77,20 +77,19 @@
 
 ### Make New Musical Page
 
-1. Click **Add New** in **Posts** Menu
-     [image-1](./WEB_Instructions.assets/1.png)
+1. Click **Add New** in **Posts** Menu ![image-101](./WEB_Instructions.assets/1.png)
    
 2. Add a title 
-    [image-2](./WEB_Instructions.assets/2.png)
+    ![image-201](./WEB_Instructions.assets/2.png)
    
 3. Add Excerpt
-    [image-3](./WEB_Instructions.assets/3.png)
+    ![image-301](./WEB_Instructions.assets/3.png)
     _please add_ ```&nbsp;``` _if you want leave it blank, this text will appear below the text of musical page title in_ **music** _page_
-    [image-4](WEB_Instructions.assets/4.png)
+    ![image-401](WEB_Instructions.assets/4.png)
    
 4. Add Content
-    ![image-6](./WEB_Instructions.assets/6.png)
-    ![image-5](./WEB_Instructions.assets/5.png)
+    ![image-601](./WEB_Instructions.assets/6.png)
+    ![image-501](./WEB_Instructions.assets/5.png)
    _Click __Text__ tab in the right hand top on the content editor to add code_
    
    1. Add Text Content
